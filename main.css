@@ -144,6 +144,12 @@ img {
   width: 50%;
 }
 
+.container-b {
+  top: 0px;
+  position: relative;
+  padding: 0px 10% 0px;
+}
+
 .d-flex {
   display: flex;
 }

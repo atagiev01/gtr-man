@@ -136,6 +136,14 @@ vertical-align: top;
 width: 50%;
 }
 
+
+
+
+.container-b{
+  top: 0px; 
+  position: relative;
+  padding: 0px 10% 0px;
+}
 .d-flex{
   display: flex;
 }
@@ -933,7 +941,8 @@ li {
 .information .rows .pieces {
   display: flex;
   gap: 10px;
-
+  // flex-direction: column;
+  // align-items: flex-start;
 }
 }
 
